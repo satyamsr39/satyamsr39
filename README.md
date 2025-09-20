@@ -31,12 +31,12 @@
 
 ### ⚙️ LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/satyamsr139?theme=dark&font=Karma&ext=heatmap)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/satyamsr139?theme=dark&ext=contest)
 
 
 <!--
+![LeetCode Stats](https://leetcard.jacoblin.cool/satyamsr139?theme=dark&font=Karma&ext=heatmap)
 ![LeetCode Contest Rating](https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/satyamsr139&query=contest.rating&label=Contest%20Rating&color=orange)
 ### ⚙️ LeetCode / Algorithm & Problem Solving 
 - **LeetCode Username**: [satyamsr139](https://leetcode.com/u/satyamsr139/)  
