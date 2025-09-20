@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Satyam Singh
 
-💻 Full-Stack Developer | 🚀 Backend-Focused Engineer | 🤖 AI-Powered Applications Enthusiast
+💻 Full-Stack Developer | 🚀 Backend-Focused Engineer | 🤖 AI & LangChain Enthusiast
 
 ---
 
 ### 🔥 About Me
-- 🎓 B.Tech CSE @ Dr. Ambedkar Institute of Technology for Handicapped (2026)
-- 💡 Strong in **Backend Development (Node.js, Express, MongoDB)**  
-- 🌱 Currently exploring **LangChain + AI integration in scalable web apps**  
-- 🎯 Goal: Build **high-performance, AI-driven real-world applications**  
+- 🎓 B.Tech CSE @ Dr. Ambedkar Institute of Technology for Handicapped (2026)  
+- 💡 Strong in **Backend Development (Node.js, Express, MongoDB)** + AI integrations  
+- 🌱 Currently exploring **LangChain + AI in scalable applications**  
+- 🎯 Passionate about solving algorithmic problems + clean system design  
 - 📫 Reach me at: [Portfolio](https://my-portfolio-six-nu-81.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/satyamsr139/) • [Email](mailto:pratyakshpratapsingh8174@gmail.com)
 
 ---
@@ -20,12 +20,24 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=chainlink&logoColor=white&style=flat)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+
+---
+
+### ⚙️ LeetCode / Algorithm & Problem Solving
+
+- **LeetCode Username**: [satyamsr139](https://leetcode.com/u/satyamsr139/)  
+- 🧮 **Problems Solved**: 107 (in C++) :contentReference[oaicite:0]{index=0}  
+- 🔍 Skills / Patterns:  
+  - Array (≈ 62 problems) :contentReference[oaicite:1]{index=1}  
+  - Hash Table, DFS, BFS, String, Matrix :contentReference[oaicite:2]{index=2}  
+  - Advanced topics: Dynamic Programming (19), Union Find (7), Divide & Conquer (5) :contentReference[oaicite:3]{index=3}  
+- 🏅 Badge: “50 Days” streak :contentReference[oaicite:4]{index=4}  
 
 ---
 
