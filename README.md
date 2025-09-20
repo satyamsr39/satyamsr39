@@ -29,8 +29,11 @@
 
 ---
 
-### ⚙️ LeetCode / Algorithm & Problem Solving
+### ⚙️ LeetCode Stats
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/satyamsr139?theme=dark&font=Karma&ext=heatmap)
+<!--
+### ⚙️ LeetCode / Algorithm & Problem Solving 
 - **LeetCode Username**: [satyamsr139](https://leetcode.com/u/satyamsr139/)  
 - 🧮 **Problems Solved**: 107 (in C++) :contentReference[oaicite:0]{index=0}  
 - 🔍 Skills / Patterns:  
@@ -38,7 +41,7 @@
   - Hash Table, DFS, BFS, String, Matrix :contentReference[oaicite:2]{index=2}  
   - Advanced topics: Dynamic Programming (19), Union Find (7), Divide & Conquer (5) :contentReference[oaicite:3]{index=3}  
 - 🏅 Badge: “50 Days” streak :contentReference[oaicite:4]{index=4}  
-
+-->
 ---
 
 ### 📂 Featured Projects
