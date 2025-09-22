@@ -33,7 +33,7 @@
 
 | LeetCode | Codeforces |
 |----------|------------|
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/satyamsr139?theme=dark&ext=contest) | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=pratyakshpratapsingh8174&theme=default) |
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/satyamsr139?theme=dark&ext=contest)<br>![LeetCode Contest Rating](https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/satyamsr139&query=contest.rating&label=Rating&color=orange) | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=pratyakshpratapsingh8174&theme=default)<br>![Codeforces Rating](https://img.shields.io/badge/dynamic/json?url=https://codeforces.com/api/user.info?handles=pratyakshpratapsingh8174&query=$.result[0].rating&label=Rating&color=blue) |
 
 ---
 
