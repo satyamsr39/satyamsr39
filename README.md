@@ -28,14 +28,28 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
 ---
+### ⚔️ Competitive Programming Stats  
 
+#### 🟠 LeetCode  
+![LeetCode Stats](https://leetcard.jacoblin.cool/satyamsr139?theme=dark&ext=contest)  
+
+#### 🔵 Codeforces  
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=pratyakshpratapsingh8174&theme=default)  
+
+#### 🟣 AtCoder *(optional)*  
+![AtCoder Stats](https://atcoder-readme-stats.vercel.app/stats?username=pratyaksh139)  
+
+#### 🟢 CodeChef *(optional)*  
+![CodeChef Stats](https://codechef-readme-stats.vercel.app/api/card?username=satyamsr139)  
+
+
+<!--
 ### ⚙️ LeetCode Stats
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/satyamsr139?theme=dark&ext=contest)
 
 
-<!--
 ![LeetCode Stats](https://leetcard.jacoblin.cool/satyamsr139?theme=dark&font=Karma&ext=heatmap)
 ![LeetCode Contest Rating](https://img.shields.io/badge/dynamic/json?url=https://leetcode-stats-api.herokuapp.com/satyamsr139&query=contest.rating&label=Contest%20Rating&color=orange)
 ### ⚙️ LeetCode / Algorithm & Problem Solving 
